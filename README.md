@@ -1,10 +1,6 @@
 # ComfyUI_windows_portable_for_faceswap
 ComfyUI_windows_portable_for_faceswap
 
-물론입니다. 수정한 부분만 요약해서 설명하고 나머지 부분은 `node.py` 파일을 참고하라고 안내하는 형식으로 작성해드리겠습니다.
-
----
-
 # Resolving Errors in `VHS_VideoCombine` Function for FaceSwap
 
 In the process of face-swapping videos using the `VHS_VideoCombine` function within the ComfyUI framework, a series of errors were encountered and resolved. This document outlines the changes made to address these issues.
