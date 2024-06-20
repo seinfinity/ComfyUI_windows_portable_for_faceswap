@@ -148,6 +148,7 @@ For further details, please refer to the `node.py` file in the project repositor
 ## References
 comfyui-reactor-node:
 https://github.com/Gourieff/comfyui-reactor-node
+
 https://github.com/Gourieff/comfyui-reactor-node?tab=readme-ov-file#troubleshooting
 
 ---
